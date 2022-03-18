@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "anh": "https://i.ytimg.com/vi/YdDngAce7gs/maxresdefault.jpg",
+        "tenPhim": "Manh mối cuối cùng"
+    },
+    {
+        "id":2,
+        "anh": "https://i.ytimg.com/vi/gofrAC9svpc/maxresdefault.jpg",
+        "tenPhim": "Cuộc chiến dầu mỏ"
+    },
+    {
+        "id":3,
+        "anh": "https://dbk.vn/uploads/ckfinder/images/tin-tuc-1/phim-hanh-dong-3.jpg",
+        "tenPhim": "Sát thủ Jhon Wick"
+    },
+    {
+        "id":4,
+        "anh": "https://i.ytimg.com/vi/XK77XyfWLOg/maxresdefault.jpg",
+        "tenPhim": "Quyết báo thù"
+    },
+    {
+        "id":5,
+        "anh": "https://icdn.dantri.com.vn/thumb_w/640/2017/14-1502166991285.jpg",
+        "tenPhim": "Nữ chiến binh"
+    },
+    {
+        "id":6,
+        "anh": "https://lh3.googleusercontent.com/T241CLEItm5eLOT9JAZ1FuW4IHUJyHuaCzdpvpDnPmqNyClwcV4b7M5FGpUEGO8XO2aazChwqw1NUMXYeXDnrVvGzIOXkOiouISIb-MQmQ=w824",
+        "tenPhim": "Máu và đầu"
+    }
+]

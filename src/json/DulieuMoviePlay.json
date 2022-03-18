@@ -1,0 +1,32 @@
+ [
+    {
+        "id":1,
+        "anh": "https://static.ssphim.net/static/5fe2d564b3fa6403ffa11d1c/61892e1fa9371f3a919b76c6_Venom-2-1.jpg",
+        "tenPhim": "Venom 2: Đối Mặt Tử Thù"
+    },
+    {
+        "id":2,
+        "anh": "https://kenh14cdn.com/thumb_w/660/203336854389633024/2021/12/16/800500-1-1639669631931545455159.jpg",
+        "tenPhim": "Spider man: No way home"
+    },
+    {
+        "id":3,
+        "anh": "https://www.studyphim.vn/system/movies/1425/thumbnails/original/1.jpg",
+        "tenPhim": "Alice ở xứ sở thần tiên"
+    },
+    {
+        "id":4,
+        "anh": "https://top.trangdangtin.com/htdocs/images/news/2019/08/02/800/hobbs_shaw.jpg",
+        "tenPhim": "Quá nhanh quá nguy hiểm"
+    },
+    {
+        "id":5,
+        "anh": "https://topreview.vn/wp-content/uploads/2019/09/hai-phuong-phim-chieu-rap-viet-nam-hay-nhat-2019.jpg",
+        "tenPhim": "Hai phượng"
+    },
+    {
+        "id":6,
+        "anh": "https://media.thuonghieucongluan.vn/uploads/2020_01_13/phim-tet-2020-30-chua-phai-tet-gretel-hansel-khuong-tu-nha-fa84e653-1578877726.jpg",
+        "tenPhim": "30 chưa phải là tết"
+    }
+]

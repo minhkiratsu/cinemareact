@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "anh":"https://www.galaxycine.vn/media/2021/12/20/kham-pha-kho-trung-phuc-sinh-no-way-home-3_1639940597914.jpg" ,
+        "tieuDe": "Spider-Man: No Way Home có bao nhiêu trứng phục sinh"       
+    },
+    {
+        "id":2,
+        "anh":"https://www.galaxycine.vn/media/2021/12/20/no-time-to-die-daniel-craig---tu-ke-bi-ghet-bo-toi-nguoi-hung-4_1639939712193.jpg" ,
+        "tieuDe": "No Time To Die: Daniel Craig - Từ kẻ bị ghét bỏ tới người hùng"
+        
+    },
+    {
+        "id":3,
+        "anh":"https://www.galaxycine.vn/media/2021/12/16/rev-1-du-fp-001r-high-res-jpeg-1_1639665465290.jpeg" ,
+        "tieuDe": "Dune: Ông Lớn của Oscar 2022 ?"
+    },
+    {
+        "id":4,
+        "anh":"https://www.galaxycine.vn/media/2021/12/20/he-lo-dan-long-tieng-cuc-khung-tu-the-boss-baby-family-business-6_1639938336025.jpg" ,
+        "tieuDe": "Hé lộ dàn lồng tiếng cực khủng từ The Boss Baby"
+    },
+    {
+        "id":5,
+        "anh":"https://www.galaxycine.vn/media/2021/12/20/kham-pha-kho-trung-phuc-sinh-no-way-home-3_1639940597914.jpg" ,
+        "tieuDe": "Spider-Man: No Way Home có bao nhiêu trứng phục sinh"       
+    },
+    {
+        "id":6,
+        "anh":"https://www.galaxycine.vn/media/2021/12/20/no-time-to-die-daniel-craig---tu-ke-bi-ghet-bo-toi-nguoi-hung-4_1639939712193.jpg" ,
+        "tieuDe": "No Time To Die: Daniel Craig - Từ kẻ bị ghét bỏ tới người hùng"
+        
+    },
+    {
+        "id":7,
+        "anh":"https://www.galaxycine.vn/media/2021/12/16/rev-1-du-fp-001r-high-res-jpeg-1_1639665465290.jpeg" ,
+        "tieuDe": "Dune: Ông Lớn của Oscar 2022 ?"
+    },
+    {
+        "id":8,
+        "anh":"https://www.galaxycine.vn/media/2021/12/20/he-lo-dan-long-tieng-cuc-khung-tu-the-boss-baby-family-business-6_1639938336025.jpg" ,
+        "tieuDe": "Hé lộ dàn lồng tiếng cực khủng từ The Boss Baby"
+    }
+
+]

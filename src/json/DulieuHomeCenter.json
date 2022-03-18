@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "anhPhim": "https://i.ytimg.com/vi/YdDngAce7gs/maxresdefault.jpg",
+        "tenPhim": "Manh mối cuối cùng"
+    },
+    {
+        "id":2,
+        "anhPhim": "https://i.ytimg.com/vi/gofrAC9svpc/maxresdefault.jpg",
+        "tenPhim": "Cuộc chiến dầu mỏ"
+    },
+    {
+        "id":3,
+        "anhPhim": "https://dbk.vn/uploads/ckfinder/images/tin-tuc-1/phim-hanh-dong-3.jpg",
+        "tenPhim": "Sát thủ Jhon Wick"
+    }
+]
